@@ -290,7 +290,7 @@ header{
     text-align: center;
     background-color: hsl(231, 69%, 60%);
     width: 100vw;
-    margin-left: -25vw;
+    margin-left: -16.7%;
     padding: 5em 0;
     margin-bottom: 0;
 }
@@ -337,7 +337,7 @@ header{
 }
 footer{
     width: 100vw;
-    margin-left: -25vw;
+    margin-left: -16.7%;
     background-color: hsl(229, 31%, 21%);
 }
 footer .content{
