@@ -1,8 +1,11 @@
 /** GENERAL */
 body{
+    padding: 0 15px;
+    margin: 0;
+}
+body main{
     max-width: 1440px;
     margin: 0 auto;
-    padding: 0 15px;
 }
 body > div{
     margin: 50px 0;
@@ -289,8 +292,8 @@ header{
 #newsletter{
     text-align: center;
     background-color: hsl(231, 69%, 60%);
-    width: 100vw;
-    margin-left: -16.7%;
+    margin-left: -15px;
+    margin-right: -15px;
     padding: 5em 0;
     margin-bottom: 0;
 }
@@ -336,8 +339,8 @@ header{
     border: 2px solid hsl(0, 94%, 66%);
 }
 footer{
-    width: 100vw;
-    margin-left: -16.7%;
+    margin-left: -15px;
+    margin-right: -15px;
     background-color: hsl(229, 31%, 21%);
 }
 footer .content{
